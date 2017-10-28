@@ -12,3 +12,6 @@ The task will require you to create the following;
 ### SQL Server Database
 2. An Asp.Net web application (MVC, .Net Core 2.0) to browse and search the parsed dataset.
 3. Functionality to output the parsed data into an .xlsx file.
+  - http://www.ashishblog.com/importexport-excel-xlsx-or-xls-file-into-sql-server/
+  - How to Export query result to .csv or .xlsx in SQL Server Management Studio(SSMS) https://www.youtube.com/watch?v=EYrCXZWcajg
+  - Export a Table or Query results from SQL Server to Excel https://www.youtube.com/watch?v=LT8EV_nx7Wo
