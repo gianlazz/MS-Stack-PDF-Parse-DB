@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DB33632E-B2B6-499E-B5BE-9FE0457A233E}|Default">
+  <MonoDevelop.Ide.ItemProperties.PDF__parse__db PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PDF_parse_db/Program.cs">
+    <Files>
+      <File FileName="PDF_parse_db/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
